@@ -2,9 +2,7 @@
 
 ---
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+Wellcome to My Github!;" />
-</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=096DB5&random=false&width=435&lines=Hi+There!+%F0%9F%91%8B;Wellcome+to+My+Github!)](https://git.io/typing-svg)
 
 ---
 
