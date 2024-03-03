@@ -26,6 +26,8 @@
  🌱 I’m currently learning **Java, Github, JavaScript**
 
 📫 How to reach me **alii.teymurii@gmail.com**
+
+<h3>Connect with me:   <a align="center" href="https://linkedin.com/in/alireza-teimuri" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alireza-teimuri" height="40" width="40" /></a></h3>
  
 </div>
  
