@@ -14,7 +14,7 @@
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHdsdjR1ejFnMGliMHRoZGZxbXoycDZieWphMjN0bXJveTc2ZW1uNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ItmevYMy1s2fadrdj9/source.gif">
+
 
 
 <div align="center">
@@ -25,10 +25,12 @@
 
 📫 How to reach me **alii.teymurii@gmail.com**
 
+<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHdsdjR1ejFnMGliMHRoZGZxbXoycDZieWphMjN0bXJveTc2ZW1uNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ItmevYMy1s2fadrdj9/source.gif">
+
  </div>
 
 <div align="left">
-
+ 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/alireza-teimuri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alireza-teimuri" height="30" width="40" /></a>
