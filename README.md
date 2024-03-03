@@ -8,7 +8,6 @@
 
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+%F0%9F%91%8B;Wellcome+to+My+Github!)](https://git.io/typing-svg)
 
 ![Header](https://media.licdn.com/dms/image/D4D16AQHKJygGoZhhwA/profile-displaybackgroundimage-shrink_350_1400/0/1709304425209?e=1715212800&v=beta&t=SD593o-YTG6yYDPkAO6sP996WSv_XGuVX1Mvef2ZYUA)
 
