@@ -13,7 +13,7 @@
 
 ---
 
-![Snake animation](https://raw.githubusercontent.com/{username}/{username}/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/{AlirezaTeimuri}/{AlirezaTeimuri}/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
