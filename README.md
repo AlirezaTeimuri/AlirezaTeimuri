@@ -1,4 +1,4 @@
-<h1 align="left">Hi there 👋</h1>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=AlirezaTeimuri.AlirezaTeimuri" />
 
 ![Header](https://media.licdn.com/dms/image/D4D16AQHKJygGoZhhwA/profile-displaybackgroundimage-shrink_350_1400/0/1709304425209?e=1715212800&v=beta&t=SD593o-YTG6yYDPkAO6sP996WSv_XGuVX1Mvef2ZYUA)
 
