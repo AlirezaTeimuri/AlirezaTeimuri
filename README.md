@@ -1,4 +1,8 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+<p align=”center”>
+
+<img width=”200" height=”200" src=”https://user-images.blahblah/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png" alt=”my banner”>
+
+</p>
 <h1 align="center">Hi 👋, I'm Alireza Teimur Pur Nezhad</h1>
 <h3 align="center">Basic Software Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHdsdjR1ejFnMGliMHRoZGZxbXoycDZieWphMjN0bXJveTc2ZW1uNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ItmevYMy1s2fadrdj9/source.gif"
