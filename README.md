@@ -2,6 +2,14 @@
 
 ![Header](https://media.licdn.com/dms/image/D4D16AQHKJygGoZhhwA/profile-displaybackgroundimage-shrink_350_1400/0/1709304425209?e=1715212800&v=beta&t=SD593o-YTG6yYDPkAO6sP996WSv_XGuVX1Mvef2ZYUA)
 
+---
+
+<p align="center">
+ <img width="600" src="assets/github-snake.svg" alt="snake"/>
+</p>
+
+---
+
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHdsdjR1ejFnMGliMHRoZGZxbXoycDZieWphMjN0bXJveTc2ZW1uNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ItmevYMy1s2fadrdj9/source.gif">
 
 
