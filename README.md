@@ -44,10 +44,18 @@
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alirezateimuri&show_icons=true&locale=en&layout=compact" alt="alirezateimuri" /></p>
+<p>
+ 
+ <img align="left" hspace="70" src="https://github-readme-stats.vercel.app/api/top-langs?username=alirezateimuri&show_icons=true&locale=en&layout=compact" alt="alirezateimuri" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alirezateimuri&show_icons=true&locale=en" alt="alirezateimuri" /></p>
+<img hspace="10" src="https://github-readme-stats.vercel.app/api?username=alirezateimuri&show_icons=true&locale=en" alt="alirezateimuri" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alirezateimuri&" alt="alirezateimuri" /></p>
+</p>
+
+---
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=alirezateimuri&" alt="alirezateimuri" /></p>
+
+---
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alirezateimuri&label=Profile%20views&color=0e75b6&style=flat" alt="alirezateimuri" /> </p>
