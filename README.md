@@ -1,8 +1,4 @@
-<p align=”center”>
-
-<img width=”200" height=”200" src=”" alt=”my banner”>
-
-</p>
+![Header]([./your-header-image-name.png](https://ibb.co/TRnXtxW))
 <h1 align="center">Hi 👋, I'm Alireza Teimur Pur Nezhad</h1>
 <h3 align="center">Basic Software Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHdsdjR1ejFnMGliMHRoZGZxbXoycDZieWphMjN0bXJveTc2ZW1uNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ItmevYMy1s2fadrdj9/source.gif"
