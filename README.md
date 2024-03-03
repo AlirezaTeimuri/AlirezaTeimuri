@@ -13,7 +13,9 @@
 
 ---
 
-![Snake animation](https://raw.githubusercontent.com/{AlirezaTeimuri}/{AlirezaTeimuri}/output/github-contribution-grid-snake-dark.svg)
+<p align="center">
+ <img width="600" src="assets/github-snake.svg" alt="snake"/>
+</p>
 
 ---
 
