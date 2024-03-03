@@ -39,10 +39,7 @@
 
 <div align="left">
  
-<h3>Connect with me: <a href="https://linkedin.com/in/alireza-teimuri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alireza-teimuri" height="30" width="40" /></a></h3>
-
-
-
+<h3>Connect with me:   <a align="center" href="https://linkedin.com/in/alireza-teimuri" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alireza-teimuri" height="40" width="40" /></a></h3>
 
 </div>
 
