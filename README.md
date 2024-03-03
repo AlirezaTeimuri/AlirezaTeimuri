@@ -17,7 +17,7 @@
 
 
 
-<div align="center">
+<div align="left">
  
  🔭 I'm looking for **a job**
  
@@ -28,6 +28,8 @@
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHdsdjR1ejFnMGliMHRoZGZxbXoycDZieWphMjN0bXJveTc2ZW1uNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ItmevYMy1s2fadrdj9/source.gif">
 
  </div>
+
+ ---
 
 <div align="left">
  
