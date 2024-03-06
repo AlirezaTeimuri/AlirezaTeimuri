@@ -9,7 +9,7 @@
 </div>
 
 
-![Header]([linkedinBackgroundPic.png](https://github.com/AlirezaTeimuri/AlirezaTeimuri/blob/7d24bc17048eb249547254302cf65045ead5f29e/LinkedinBackgroundPic.png))
+([linkedinBackgroundPic.png](https://github.com/AlirezaTeimuri/AlirezaTeimuri/blob/7d24bc17048eb249547254302cf65045ead5f29e/LinkedinBackgroundPic.png))
 
 ---
 
