@@ -9,7 +9,7 @@
 </div>
 
 
-![Header](https://media.licdn.com/dms/image/D4D16AQHKJygGoZhhwA/profile-displaybackgroundimage-shrink_350_1400/0/1709304425209?e=1715212800&v=beta&t=SD593o-YTG6yYDPkAO6sP996WSv_XGuVX1Mvef2ZYUA)
+![Header](linkedinBackgroundPic.png)
 
 ---
 
